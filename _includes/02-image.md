@@ -1,1 +1,1 @@
-! [cool image](floweringdogwoodflowers2.jpg)
+! [cool image](https://octodex.github.com/images/yaktocat.png)
