@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Hello
+ - Hi
+- My name is
+ - Banana
