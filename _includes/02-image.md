@@ -1,1 +1,1 @@
-! [cool image] (floweringdogwoodflowers2.jpg)
+! [cool image](floweringdogwoodflowers2.jpg)
